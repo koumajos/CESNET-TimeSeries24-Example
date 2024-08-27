@@ -14,7 +14,7 @@ As example of processing of three dataset parts, we prepare the [SARIMA retraini
 
 ## Evaluation example
 
-The example of evalution of SARIMA model is available in file [analyze-results.ipynb](https://github.com/koumajos/CESNET-TimeSeries-2023-2024-Example/blob/main/analyze-results.ipynb))
+The example of evalution of SARIMA model is available in file [analyze-results.ipynb](https://github.com/koumajos/CESNET-TimeSeries-2023-2024-Example/blob/main/analyze-results.ipynb)
 
 ## Cite as
 
