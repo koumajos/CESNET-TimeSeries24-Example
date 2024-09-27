@@ -27,5 +27,17 @@ TODO: Add citation of preprint
 Josef Koumar, Karel Hynek, Pavel Šiška & Tomáš Čejka. (2024). CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.13382427>
 
 ```
-TODO: Add citation of Zenodo repository
+@dataset{koumar_2024_13382427,
+  author       = {Koumar, Josef and
+                  Hynek, Karel and
+                  Čejka, Tomáš and
+                  Šiška, Pavel},
+  title        = {{CESNET-TimeSeries24: Time Series Dataset for 
+                   Network Traffic Anomaly Detection and Forecasting}},
+  month        = aug,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.13382427},
+  url          = {https://doi.org/10.5281/zenodo.13382427}
+}
 ```
