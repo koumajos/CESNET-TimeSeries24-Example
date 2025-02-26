@@ -18,17 +18,22 @@ The example of evalution of SARIMA model is available in file [analyze-results.i
 
 ## Cite as
 
-Josef Koumar, Karel Hynek, Tomáš Čejka, Pavel Šiška, "CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting", arXiv e-prints (2024): [https://arxiv.org/abs/2409.18874](https://arxiv.org/abs/2409.18874)
+Koumar, J., Hynek, K., Čejka, T. et al. CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting. Sci Data 12, 338 (2025). https://doi.org/10.1038/s41597-025-04603-x
 
 ```
-@misc{koumar2024cesnettimeseries24timeseriesdataset,
-      title={CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting}, 
-      author={Josef Koumar and Karel Hynek and Tomáš Čejka and Pavel Šiška},
-      year={2024},
-      eprint={2409.18874},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2409.18874}, 
+@Article{cesnettimeseries24,
+    author={Koumar, Josef and Hynek, Karel and {\v{C}}ejka, Tom{\'a}{\v{s}} and {\v{S}}i{\v{s}}ka, Pavel},
+    title={CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting},
+    journal={Scientific Data},
+    year={2025},
+    month={Feb},
+    day={26},
+    volume={12},
+    number={1},
+    pages={338},
+    issn={2052-4463},
+    doi={10.1038/s41597-025-04603-x},
+    url={https://doi.org/10.1038/s41597-025-04603-x}
 }
 ```
 
